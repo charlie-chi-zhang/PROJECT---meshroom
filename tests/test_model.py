@@ -1,5 +1,5 @@
 import pytest
-# cz new comments here
+
 from PySide2.QtCore import QObject, Property
 
 from meshroom.common.core import CoreDictModel
